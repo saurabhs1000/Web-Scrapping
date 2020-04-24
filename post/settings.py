@@ -70,7 +70,7 @@ ITEM_PIPELINES = {
    
 }
 FILES_STORE = '/path/to/valid/dir'
-IMAGES_STORE = '/Celebrities/images'
+IMAGES_STORE = 'Celebrities/images'
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html
 #AUTOTHROTTLE_ENABLED = True
