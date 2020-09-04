@@ -1,2 +1,3 @@
 # bollwoodStars2019
-first install scrapy from the terminal using pip install scrapy 
+ Web scrapping /crawling of top bollywood stars 2019
+ code used python and library use scrapy 
